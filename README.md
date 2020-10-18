@@ -142,7 +142,7 @@ def digits(df, df_column, country):
 ```
 
 ### Generating the data
-For the sake of our own analysis, we decided to limit our function to the top 14 countries in terms of total COVID-19 reported cases.From these, we fed the list of 30 into the function constructed above.
+For the sake of our own analysis, we decided to limit our function to the top 30 countries in terms of total COVID-19 reported cases.From these, we fed the list of 30 into the function constructed above.
 
 The 30 countries are:
 
